@@ -1,0 +1,17 @@
+title: "My Data Science Portfolio"
+author: "Yvonne Margaret D. Bitco"
+
+repository:
+  url: https://github.com/von0218/ds-portfolio_bitco.git
+
+html:
+  use_repository_button: true
+  use_download_button: true
+
+sphinx:
+  extra_extensions:
+    - sphinx.ext.githubpages
+
+  config:
+    html_css_files:
+      - "_static/custom.css"

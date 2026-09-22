@@ -1,0 +1,33 @@
+/* Hide search */
+.bd-search,
+.bd-sidebar-primary .search-button-field,
+#pst-search-button {
+    display: none !important;
+}
+
+/* Remove yellow heading backgrounds */
+h1,
+h2,
+h3,
+h4 {
+    background: none !important;
+    background-color: transparent !important;
+}
+
+/* Keep right-side Table of Contents */
+.bd-sidebar-secondary {
+    display: block !important;
+}
+
+/* Remove active blue/yellow highlighting from right TOC */
+.bd-sidebar-secondary .nav-link.active,
+.bd-sidebar-secondary .nav-link:hover,
+.bd-sidebar-secondary .nav-link:focus {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+/* Keep TOC text normal */
+.bd-sidebar-secondary .nav-link {
+    background: transparent !important;
+}

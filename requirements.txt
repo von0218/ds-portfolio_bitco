@@ -1,0 +1,9 @@
+jupyter-book
+ghp-import
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
+jupyter
