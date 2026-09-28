@@ -6,15 +6,16 @@ This portfolio showcases my laboratory tasks and learning activities throughout 
 
 ## Portfolio Contents
 
-This portfolio contains the following laboratory tasks:
+This portfolio contains the following laboratory tasks and exercises:
 
-1. **Laboratory Task 2** — Understanding Deep Learning
-2. **Laboratory Task 3** — Understanding Deep Learning
-3. **Laboratory Task 4** — Understanding Deep Learning
-4. **Laboratory Task 5** — PyTorch Basics
+1. **Laboratory Task 2** — 01_Understanding Deep Learning
+2. **Laboratory Task 3** — 01_Understanding Deep Learning
+3. **Laboratory Task 4** — 01_Understanding Deep Learning
+4. **Laboratory Task 5** — 02_PyTorch Basics
 5. **Laboratory Task 6** — E1 - CNN Implementation
+6. **Laboratory Exercise** — Model Inference on Custom Dataset
 
-The laboratory notebooks will be added to the portfolio as they are completed.
+The laboratory notebooks and exercises will be added to the portfolio as they are completed.
 
 ## Repository
 
