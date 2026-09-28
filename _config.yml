@@ -15,3 +15,6 @@ sphinx:
   config:
     html_css_files:
       - "_static/custom.css"
+
+execute:
+  execute_notebooks: off

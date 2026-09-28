@@ -1,16 +1,12 @@
 format: jb-book
 root: intro
 
-parts:
-  - caption: "Portfolio Contents"
-    chapters:
-      - file: projects/laboratory-task-2
-        title: "Laboratory Task 2 — Understanding Deep Learning"
-      - file: projects/laboratory-task-3
-        title: "Laboratory Task 3 — Understanding Deep Learning"
-      - file: projects/laboratory-task-4
-        title: "Laboratory Task 4 — Understanding Deep Learning"
-      - file: projects/laboratory-task-5
-        title: "Laboratory Task 5 — PyTorch Basics"
-      - file: projects/laboratory-task-6
-        title: "Laboratory Task 6 — E1 - CNN Implementation"
+chapters:
+  - file: projects/laboratory_task_2
+    title: "Laboratory Task 2 — 01_Understanding Deep Learning"
+
+  - file: projects/laboratory_task_3
+    title: "Laboratory Task 3 — 01_Understanding Deep Learning"
+
+  - file: projects/laboratory_exercise
+    title: "Laboratory Exercise — Model Inference on Custom Dataset"
