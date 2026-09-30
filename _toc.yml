@@ -2,11 +2,18 @@ format: jb-book
 root: intro
 
 chapters:
-  - file: projects/laboratory_task_2
-    title: "Laboratory Task 2 — 01_Understanding Deep Learning"
 
-  - file: projects/laboratory_task_3
-    title: "Laboratory Task 3 — 01_Understanding Deep Learning"
+   - file: projects/laboratory_task_2
+     title: Laboratory Task 2 – 01 Understanding Deep Learning
 
-  - file: projects/laboratory_exercise
-    title: "Laboratory Exercise — Model Inference on Custom Dataset"
+   - file: projects/laboratory_task_3
+     title: Laboratory Task 3 – 01 Understanding Deep Learning
+
+   - file: projects/labs/04_Understanding_Deep_Learning
+     title: Laboratory Task 4 – 01 Understanding Deep Learning
+
+   - file: projects/labs/05_PyTorch_Basics
+     title: Laboratory Task 5 – 02 PyTorch Basics
+
+   - file: projects/labs/06_Model_Inference_on_Custom_Dataset
+     title: Laboratory Exercise – Model Inference on Custom Dataset
